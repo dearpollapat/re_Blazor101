@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m2VURfgG7ujM7NwGmQBeAs41fbMz8ZxothY6gGKQigjdnh18mJxq8aovYCsIit1MN4ToH5VDiqoLngZ3nXB8/Q==",
+  "dgSpecHash": "38hwD09wJni9L3IQmFWKSODMScTsRFPPvGrtjXbm7vXsCEZjKVOHC/OQ4o13CjJNpe5WUkRSeJ2X7VKxJBiaOw==",
   "success": true,
-  "projectFilePath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+  "projectFilePath": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pollapat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Pollapat\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -40,7 +40,6 @@
     "C:\\Users\\Pollapat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\Pollapat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\Pollapat\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\Pollapat\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Pollapat\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\Pollapat\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\Pollapat\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",

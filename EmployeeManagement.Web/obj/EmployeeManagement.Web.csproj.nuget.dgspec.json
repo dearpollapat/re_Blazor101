@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\coding\\ASP Net Core\\blazorserver101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {}
+    "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {}
   },
   "projects": {
-    "E:\\coding\\ASP Net Core\\blazorserver101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {
+    "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\coding\\ASP Net Core\\blazorserver101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+        "projectUniqueName": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
         "projectName": "EmployeeManagement.Web",
-        "projectPath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+        "projectPath": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
         "packagesPath": "C:\\Users\\Pollapat\\.nuget\\packages\\",
-        "outputPath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmployeeManagement.Web\\obj\\",
+        "outputPath": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmployeeManagement.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj": {
-                "projectPath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj"
+              "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj": {
+                "projectPath": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj": {
+    "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj",
+        "projectUniqueName": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj",
         "projectName": "EmploymentManagement.Models",
-        "projectPath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj",
+        "projectPath": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj",
         "packagesPath": "C:\\Users\\Pollapat\\.nuget\\packages\\",
-        "outputPath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\obj\\",
+        "outputPath": "E:\\coding\\ASP Net Core\\blazorgit101\\re_Blazor101\\EmploymentManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,12 +127,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "System.ComponentModel.Annotations": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
