@@ -1,0 +1,6 @@
+E:\coding\ASP Net Core\blazorserver101\BlazorWebApp101\obj\Debug\net6.0\BlazorWebAppAssembly101.csproj.AssemblyReference.cache
+E:\coding\ASP Net Core\blazorserver101\BlazorWebApp101\obj\Debug\net6.0\BlazorWebAppAssembly101.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\ASP Net Core\blazorserver101\BlazorWebApp101\obj\Debug\net6.0\BlazorWebAppAssembly101.AssemblyInfoInputs.cache
+E:\coding\ASP Net Core\blazorserver101\BlazorWebApp101\obj\Debug\net6.0\BlazorWebAppAssembly101.AssemblyInfo.cs
+E:\coding\ASP Net Core\blazorserver101\BlazorWebApp101\obj\Debug\net6.0\BlazorWebAppAssembly101.csproj.CoreCompileInputs.cache
+E:\coding\ASP Net Core\blazorserver101\BlazorWebApp101\obj\Debug\net6.0\BlazorWebAppAssembly101.MvcApplicationPartsAssemblyInfo.cache

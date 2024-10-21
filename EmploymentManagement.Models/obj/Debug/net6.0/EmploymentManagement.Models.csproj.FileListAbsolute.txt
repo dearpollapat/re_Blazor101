@@ -1,0 +1,11 @@
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\bin\Debug\net6.0\EmploymentManagement.Models.deps.json
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\bin\Debug\net6.0\EmploymentManagement.Models.dll
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\bin\Debug\net6.0\EmploymentManagement.Models.pdb
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\EmploymentManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\EmploymentManagement.Models.AssemblyInfoInputs.cache
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\EmploymentManagement.Models.AssemblyInfo.cs
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\EmploymentManagement.Models.csproj.CoreCompileInputs.cache
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\EmploymentManagement.Models.dll
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\refint\EmploymentManagement.Models.dll
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\EmploymentManagement.Models.pdb
+E:\coding\ASP Net Core\blazorserver101\EmploymentManagement.Models\obj\Debug\net6.0\ref\EmploymentManagement.Models.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98TiX/z6t2eH1LOs863NDve2lvRO4RlE2aOOYSdu4SKwMGDMwmrL6Az0kvuN/EBWcMPKllp0yhAdq9xz/whMqA==",
+  "success": true,
+  "projectFilePath": "E:\\coding\\ASP Net Core\\blazorserver101\\EmploymentManagement.Models\\EmploymentManagement.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pollapat\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
