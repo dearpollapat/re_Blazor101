@@ -27,9 +27,13 @@
 <div>
     <b>Name :</b> <input @bind="Name" @bind:event="oninput"/>
 </div>
+<div>
+    Show Name : @Name
+</div>
 
 <hr/>
 <div>
+    <h2>here</h2>
     <b>Colour :</b> <input @bind="Colour" />
 </div>
 <div @bind-style="Colour" @bind-style:event="onchange">
